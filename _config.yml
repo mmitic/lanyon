@@ -5,7 +5,7 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:                Data.to.insights() 
+title:                Data.to.insights( ) 
 tagline:             'Set of personal projects in Data Science and Machine Learning'
 description:         
 url:                 
@@ -16,7 +16,12 @@ paginate:            1
 author:
   name:              Marko Mitic
   url:               
-  email:             miticm@gmail.com
+  email:             miticm[at]gmail.com
+  email_md5:         7085e66f82be0b794be80b4359df1ca6
+  github:            mmitic
+  linkedin:          dr-marko-mitic
+# Custom vars
+version:             1.0.0
 
 # Custom vars
 version:             1.0.0
