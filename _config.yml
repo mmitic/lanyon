@@ -15,8 +15,8 @@ paginate:            1
 # About/contact
 author:
   name:              Marko Mitic
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               
+  email:             miticm@gmail.com
 
 # Custom vars
 version:             1.0.0
