@@ -5,16 +5,16 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Data Science 
+tagline:             'Set of personal projects in Data Science and Machine Learning'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/lanyon'
-paginate:            5
+paginate:            2
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Marko Mitic
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
