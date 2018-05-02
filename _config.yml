@@ -9,7 +9,7 @@ title:               Data Science
 tagline:             'Set of personal projects in Data Science and Machine Learning'
 description:         
 url:                 
-baseurl:             '/lanyon'
+baseurl:             ''
 paginate:            1
 
 # About/contact
