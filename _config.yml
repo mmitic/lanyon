@@ -16,7 +16,8 @@ paginate:            1
 author:
   name:              Marko Mitic
   url:               
-  email:             miticm@gmail.com
-
+  email:             miticm[at]gmail.com
+  github:            mmitic
+  linkedin:          dr-marko-mitic
 # Custom vars
 version:             1.0.0
