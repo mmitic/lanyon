@@ -8,8 +8,8 @@ permalink:           pretty
 title:                Data.to.discovery( ) 
 tagline:             'Set of personal projects in Data Science and Machine Learning'
 description:         
-url:                 mmitic.github.io
-baseurl:             ''
+url:                 https://mmitic.github.io/
+baseurl:             https://mmitic.github.io/
 paginate:            1
 
 # About/contact
